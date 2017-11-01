@@ -1,0 +1,12 @@
+item.compressed_coal.name=Compressed Coal
+tile.compressed_coal_block.name=Compressed Coal Block
+item.carbonite_diamond.name=Carbonite Diamond
+itemGroup.outdatedtab=Outdated Mod
+
+item.carbonite_pickaxe.name=Carbonite Pickaxe
+item.carbonite_sword.name=Carbonite Sword
+
+item.carbonite_helmet.name=Carbonite Helmet
+item.carbonite_boots.name=Carbonite Boots
+item.carbonite_chestplate.name=Carbonite Chestplate
+item.carbonite_leggings.name=Carbonite Leggings
