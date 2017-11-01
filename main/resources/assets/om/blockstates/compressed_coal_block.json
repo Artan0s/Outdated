@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "om:compressed_coal_block" }
+    }
+}
